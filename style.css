@@ -105,8 +105,8 @@ section{
     align-items: center;
 }
 .main-container .image{
-    width: 500px;
-    height: 80vh;
+    width: 450px;
+    height: 75vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -141,8 +141,8 @@ section{
     text-shadow: 0  0 10px #077b32;
 }
 .content .typewriter{
-    font-size: clamp(1rem, 1rem + 5vw, 2.0rem);
-    font-weight: 600;
+    font-size: clamp(1rem, 1rem + 5vw, 1.7rem);
+    font-weight: 500;
 }
 .content .typewriter-text{
     color: #077b32;
