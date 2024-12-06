@@ -105,8 +105,8 @@ section{
     align-items: center;
 }
 .main-container .image{
-    width: 400px;
-    height: 70vh;
+    width: 350px;
+    height: 60vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -141,7 +141,7 @@ section{
     text-shadow: 0  0 10px #077b32;
 }
 .content .typewriter{
-    font-size: clamp(1.2rem, 1.2rem + 5vw, 1.9rem);
+    font-size: clamp(1.1rem, 1.1rem + 5vw, 1.7rem);
     font-weight: 500;
 }
 .content .typewriter-text{
@@ -149,7 +149,7 @@ section{
     text-shadow: 0 0 10px #077b32;
 }
 .content p{
-    font-size: clamp(0.3rem , 0.2rem + 9vw, 0.8rem);
+    font-size: clamp(0.2rem , 0.2rem + 9vw, 0.7rem);
     margin: 10px 0;
 }
 .social-links i{
