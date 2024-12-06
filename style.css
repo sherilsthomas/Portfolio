@@ -106,7 +106,7 @@ section{
 }
 .main-container .image{
     width: 40px;
-    height: 100vh;
+    height: 60vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -149,7 +149,7 @@ section{
     text-shadow: 0 0 10px #077b32;
 }
 .content p{
-    font-size: clamp(0.8rem , 0.8rem + 9vw, 1.8rem);
+    font-size: clamp(0.7rem , 0.7rem + 9vw, 1.5rem);
     margin: 10px 0;
 }
 .social-links i{
