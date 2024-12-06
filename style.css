@@ -149,7 +149,7 @@ section{
     text-shadow: 0 0 10px #077b32;
 }
 .content p{
-    font-size: clamp(0.2rem , 0.2rem + 9vw, 0.7rem);
+    font-size: clamp(0.4rem , 0.4rem + 9vw, 1.2rem);
     margin: 10px 0;
 }
 .social-links i{
