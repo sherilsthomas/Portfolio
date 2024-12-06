@@ -106,7 +106,7 @@ section{
 }
 .main-container .image{
     width: 40px;
-    height: 60vh;
+    height: 30vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -134,14 +134,14 @@ section{
     min-height: 100px;
 }
 .content h1{
-    font-size: clamp(1rem, 1rem + 5vw, 1.5rem);
+    font-size: clamp(0.8rem, 0.8rem + 5vw, 1.3rem);
 }
 .content h1 span{
     color: #077b32;
     text-shadow: 0  0 10px #077b32;
 }
 .content .typewriter{
-    font-size: clamp(1.2rem, 1.2rem + 5vw, 1.8rem);
+    font-size: clamp(1.0rem, 1.0rem + 5vw, 1.5rem);
     font-weight: 600;
 }
 .content .typewriter-text{
@@ -149,7 +149,7 @@ section{
     text-shadow: 0 0 10px #077b32;
 }
 .content p{
-    font-size: clamp(0.7rem , 0.7rem + 9vw, 1.5rem);
+    font-size: clamp(0.6rem , 0.6rem + 9vw, 1.4rem);
     margin: 10px 0;
 }
 .social-links i{
