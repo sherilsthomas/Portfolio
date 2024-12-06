@@ -106,7 +106,7 @@ section{
 }
 .main-container .image{
     width: 350px;
-    height: 60vh;
+    height: 50vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
@@ -141,8 +141,8 @@ section{
     text-shadow: 0  0 10px #077b32;
 }
 .content .typewriter{
-    font-size: clamp(1.1rem, 1.1rem + 5vw, 1.7rem);
-    font-weight: 500;
+    font-size: clamp(1.0rem, 1.0rem + 5vw, 1.5rem);
+    font-weight: 600;
 }
 .content .typewriter-text{
     color: #077b32;
