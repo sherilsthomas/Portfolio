@@ -141,7 +141,7 @@ section{
     text-shadow: 0  0 10px #077b32;
 }
 .content .typewriter{
-    font-size: clamp(1rem, 1rem + 5vw, 1.7rem);
+    font-size: clamp(1.2rem, 1.2rem + 5vw, 1.9rem);
     font-weight: 500;
 }
 .content .typewriter-text{
@@ -149,7 +149,7 @@ section{
     text-shadow: 0 0 10px #077b32;
 }
 .content p{
-    font-size: clamp(0.2rem , 0.1rem + 9vw, 0.8rem);
+    font-size: clamp(0.3rem , 0.2rem + 9vw, 0.9rem);
     margin: 10px 0;
 }
 .social-links i{
