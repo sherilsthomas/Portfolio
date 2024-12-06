@@ -1,6 +1,6 @@
  .pcontainer {
             display: flex;
-            width: 1170px;
+            width: 700px;
             margin: 0 auto;
         }
 
@@ -10,7 +10,7 @@
         }
 
         .pcontainer .card .bgImage {
-            height: 250px;
+            height: 350px;
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
@@ -42,8 +42,8 @@
         }
 
         .popup .popupIn {
-            width: 680px;
-            height: 680px;
+            width: 800px;
+            height: 800px;
             position: relative;
             max-height: 70%;
             max-width: 80%
