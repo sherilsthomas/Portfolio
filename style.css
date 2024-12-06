@@ -105,8 +105,8 @@ section{
     align-items: center;
 }
 .main-container .image{
-    width: 450px;
-    height: 75vh;
+    width: 350px;
+    height: 70vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #077b32;
